@@ -1,9 +1,7 @@
 
 Homework 1 - Python Refresher Guide Exercises
 
-These scripts make use of words and names file. 
-
-**INCLUDE HOW TO ACCESS WORDS AND NAMES**
+These scripts make use of the words dictionary. 
 
 script01.py - Finds and prints the five longest words in the word file. If two words are of the same length, the word that apears first alphabetically is listed. 
 
